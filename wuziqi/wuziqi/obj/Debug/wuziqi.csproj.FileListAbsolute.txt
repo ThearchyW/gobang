@@ -1,0 +1,10 @@
+D:\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+D:\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.exe
+D:\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.pdb
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csprojAssemblyReference.cache
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.Form1.resources
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.cache
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.CoreCompileInputs.cache
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+D:\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
